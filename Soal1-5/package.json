@@ -1,0 +1,32 @@
+{
+  "name": "testarkademy3",
+  "version": "1.0.0",
+  "description": "Jawaban dari soal test bootcamp arkademy#3",
+  "main": "index.js",
+  "scripts": {
+    "soal-1": "node soal-1.js",
+    "soal-2": "node soal-2.js",
+    "soal-3": "node soal-3.js",
+    "soal-4": "node soal-4.js",
+    "soal-5": "node soal-5.js",
+    "soal-6": "node soal-6.js",
+    "soal-7": "node soal-7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artmxra7/TestArkademy-3.git"
+  },
+  "keywords": [
+    "testarkademy3"
+  ],
+  "author": "Erwin Rahayu artmxarea@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artmxra7/TestArkademy-3/issues"
+  },
+  "homepage": "https://github.com/artmxra7/TestArkademy-3#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
