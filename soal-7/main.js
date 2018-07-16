@@ -1,5 +1,5 @@
 let xhr = new XMLHttpRequest();
-xhr.open('GET', '/data.db', true);
+xhr.open('GET', '/arkademy3.db', true);
 xhr.responseType = 'arraybuffer';
 
 let thead = document.getElementById('thead');
