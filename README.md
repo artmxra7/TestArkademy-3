@@ -1,6 +1,5 @@
 # Arkademy 3 Test
 
-Bissmillahirohmanirohim Semoga LULUS
 
 Berikut adalah jawaban dari soal seleksi arkademy bootcamp #3
 
@@ -104,6 +103,6 @@ Request data dari data.db yang dibuat pada soal nomor 6 :
 ## Authors
 
 * **ERWIN RAHAYU** - Dibuat untuk seleksi Arkademy #3
-SEMOGA LULUS
+
 
 
